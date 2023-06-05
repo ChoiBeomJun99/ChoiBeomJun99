@@ -57,7 +57,7 @@ https://coordicube.com/ (Scheduled for release in 2023)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choibumj)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choibeomjun99&show_icons=true&theme=radical)
+
 
 
 
