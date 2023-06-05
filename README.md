@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOBINNOH&layout=compact">
-<br>
-
 <h1> Link </h1>
 <a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br>
@@ -40,4 +37,8 @@ ETC <br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOBINNOH&layout=compact">
+<br>
 
