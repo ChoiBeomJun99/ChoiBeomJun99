@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 🌱
-I am an aspiring developer with a unique spirit of challenge and 
+I am an aspiring developer with a unique spirit of challenge and <br/>
 a strong sense of responsibility to fulfill users' diverse demands.
 <br/>
 <br/>
