@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>🔗 Link</h1>
+<h2>🔗 Link</h2>
 <a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br>
 
-<h1>💻 Skills</h1>
+<h2>💻 Skills</h2>
 
 Web <br/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
@@ -40,7 +40,7 @@ ETC <br/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 
-<h1>🧑🏻‍💻 participation </h1>
+<h2>🧑🏻‍💻 participation </h2>
 https://coordicube.com/ (Scheduled for release in 2023)
 
 
