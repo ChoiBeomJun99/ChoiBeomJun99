@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+🌱
 I am an aspiring developer with a unique spirit of challenge and a strong sense of responsibility to fulfill users' diverse demands.
 <br/>
 
