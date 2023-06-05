@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br>
 
-<h1> My Skill </h1>
+<h1> Skills </h1>
 
 Web <br/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
