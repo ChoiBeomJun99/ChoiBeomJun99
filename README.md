@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+I am an aspiring developer with a unique spirit of challenge and a strong sense of responsibility to fulfill users' diverse demands.
+<br/>
+
 <h2>🔗 Link</h2>
 <a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.gmail.com"><img src="https://img.shields.io/badge/choibj0414@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
