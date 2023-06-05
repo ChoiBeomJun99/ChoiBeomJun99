@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br>
 
-Web
-<img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/>
+Web <br/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
-App
+App <br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-
-ETC
+ETC <br/>
+<img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-6666FF?style=flat-square&logo=firebase&logoColor=white"/>
