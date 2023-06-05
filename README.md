@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 <h1> Skills </h1>
+
 Web <br/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
