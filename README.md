@@ -39,3 +39,4 @@ App <br/>
 ETC <br/>
 <img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-6666FF?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
