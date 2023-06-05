@@ -32,11 +32,12 @@ Web <br/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 App <br/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
 ETC <br/>
-<img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-6666FF?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
