@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 Web
 <img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 App
 
