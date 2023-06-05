@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOBINNOH&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=ChoiBeomJun99&show_icons=true">
 
-<a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=Blogger&logoColor=black"/></a>
+<a href="https://www.notion.so/Beom-Jun-Choi-690276e644464bb8918e208576947178"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Blogger&logoColor=black"/></a>
 <br>
 
 Web
