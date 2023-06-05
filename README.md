@@ -46,8 +46,8 @@ ETC <br/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 
-<h2>🧑🏻‍💻 participation </h2>
-https://coordicube.com/ (Scheduled for release in 2023)
+<h2>🧑🏻‍💻 participation & career</h2>
+https://coordicube.com/ (Scheduled for release in 2023): (주)케이퍼스트랩 (2022.09-2023.02)
 
 
 <br/>
