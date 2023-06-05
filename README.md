@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ubin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BJ&fontSize=90" />
 <br>
 
 
