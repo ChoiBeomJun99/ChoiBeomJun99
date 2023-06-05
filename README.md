@@ -54,7 +54,7 @@ https://coordicube.com/ (Scheduled for release in 2023)
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOBINNOH&layout=compact">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choibumj)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choibumj)
 
 
 
