@@ -46,7 +46,7 @@ ETC <br/>
 
 
 <h2>🧑🏻‍💻 participation & career</h2>
-- https://coordicube.com/ (Scheduled for release in 2023): (주)케이퍼스트랩 (2022.09-2023.02)
+- https://coordicube.com/ (Scheduled for release in 2024): (주)케이퍼스트랩 (2022.09-2023.02)
 <br />
 - IT금융개발부_수신복합팀 인턴 근무 : IBK기업은행 (2023.07-2023.08)
 <br />
